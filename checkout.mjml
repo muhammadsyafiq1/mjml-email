@@ -1,0 +1,142 @@
+<mjml>
+    <mj-body background-color="#e4e6eb"
+    font-size="13px">
+        <mj-section background-color="#ffffff"
+        vertical-align="top" padding-bottom="0px"
+        padding-top="0px" border-bottom="1px dashed #eee">
+            <mj-column vertical-align="top" width="100%">
+                <mj-image src="/images/logo@2x.png" alt="logo" 
+                align="center"
+                border="none" width="150px" padding-left="0px"
+                padding-right="0px" padding-bottom="25px" 
+                padding-top="30px"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff"
+        vertical-align="top" padding-bottom="0px"padding-top="0px">
+            <mj-column vertical-align="top" width="100%">
+                <mj-text align="center"
+                color="#071c4d" font-size="30px"
+                font-weight="bold"
+                font-family="PlayFair Display, Times New Roman, serif"
+                padding-left="25px"
+                padding-right="25px"
+                padding-bottom="30px"
+                padding-top="30px">
+                    Don't Forget Your E-Ticket !
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" padding-bottom="0px"
+        padding-top="0px">
+            <mj-column vertical-align="top" width="100%">
+                <mj-image src="/images/details@2x.jpg" alt="img" 
+                align="center"
+                border="none" width="550px" 
+                padding-left="0px"
+                padding-right="0px" 
+                padding-bottom="0px" 
+                padding-top="0px"/>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" padding-bottom="20px"padding-top="20px">
+            <mj-column vertical-align="middle" width="100%" border-bottom="1px dashed #eee" padding-bottom="30px">
+                <mj-text align="left" line-height="28px"
+                color="#071c4d" font-size="18px"
+                font-family="Assistant, Helvetica, Arial, sans-serif"
+                padding-left="25px"
+                padding-right="25px">
+                    Hi, Muhammad Syafiq
+                    <br>
+                    Tiket Digital Kamu Berhasil 
+                    Dicetak.
+                    <br>
+                    Booking ID <strong>#32120092</strong>
+                </mj-text>
+                <mj-table align="left" color="#071c4d"
+                font-size="18px" font-family="Assistant, Helvetica, sans-serif" line-height="28px"
+                padding-left="25px"
+                padding-right="25px">
+                    <tr>
+                        <td colspan="3">Members</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Syafiq</strong></td>
+                        <td style="text-align: right;">Singapore, SG</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Nenden</strong></td>
+                        <td style="text-align: right;">Singapore, SG</td>
+                    </tr>
+                </mj-table>
+                 <mj-table align="left" color="#071c4d"
+                font-size="18px" font-family="Assistant, Helvetica, sans-serif" line-height="28px"
+                padding-left="25px"
+                padding-right="25px">
+                    <tr>
+                        <td colspan="3">Travel Details</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Departure</strong></td>
+                        <td style="text-align: right;">Nusa Peninda</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Date and Time</strong></td>
+                        <td style="text-align: right;">Thu,20 jan, 2020</td>
+                    </tr>
+                </mj-table>
+
+                <mj-button align="center"
+                font-size="18px"
+                background-color="#ff9e53"
+                border-radius="10px"
+                color="#fff"
+                font-family="Assistant, Helvetica, Arial, sans-serif">
+                    Check Detail
+                </mj-button>
+                
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff"
+        padding-bottom="0px" padding-top="10px">
+            <mj-column vertical-align="middle"width="100%">
+                <mj-text align="left" color="#071c4d" font-size="18px" line-height="20px"
+                font-family="Assistant, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px">
+                    Butuh Bantuan?
+                </mj-text>
+            </mj-column>          
+        </mj-section>
+        <mj-section background-color="#ffffff" padding-bottom="20px"padding-top="20px">
+            <mj-column>   
+                <mj-table>
+                    <tr>
+                        <td style="width: 50px;">
+                            <img src="/images/ic_mail@2x.png" width="50px"
+                        </td>
+                        <td style="font-size: 18px; padding-left: 10px; color: #071c4d; font-family: Assistant">
+                            support@nomads.com
+                            <br>
+                            021300093289
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="30px"
+        padding-top="3px">
+            <mj-column>
+                <mj-text align="center"
+                color="#888b93" font-size="18px"
+                font-family="Assistant, Heltevica, Arial, sans-serif" padding-left="25px"
+                padding-right="25px"
+                padding-bottom="0px"
+                padding-top="30px">
+                2020 Nomads Copyright All Rights
+                Reserved.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
